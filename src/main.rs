@@ -1,4 +1,4 @@
-use std::{collections::HashMap, error::Error, fs, path::Path, time::Instant};
+use std::{collections::HashMap, fs, path::Path, time::Instant};
 
 use crate::{
     data_models::{

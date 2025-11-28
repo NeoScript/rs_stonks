@@ -1,0 +1,138 @@
+[
+  {
+    "symbol": "UPS",
+    "category": "E"
+  },
+  {
+    "symbol": "GOOGL",
+    "category": "A"
+  },
+  {
+    "symbol": "HD",
+    "category": ""
+  },
+  {
+    "symbol": "AMD",
+    "category": "C"
+  },
+  {
+    "symbol": "DE",
+    "category": "E"
+  },
+  {
+    "symbol": "TSLA",
+    "category": "A"
+  },
+  {
+    "symbol": "JNJ",
+    "category": "D"
+  },
+  {
+    "symbol": "CAT",
+    "category": "E"
+  },
+  {
+    "symbol": "NFLX",
+    "category": "B"
+  },
+  {
+    "symbol": "BAC",
+    "category": ""
+  },
+  {
+    "symbol": "META",
+    "category": "A"
+  },
+  {
+    "symbol": "FDX",
+    "category": "E"
+  },
+  {
+    "symbol": "MA",
+    "category": "B"
+  },
+  {
+    "symbol": "SLB",
+    "category": "E"
+  },
+  {
+    "symbol": "XOM",
+    "category": "E"
+  },
+  {
+    "symbol": "PEP",
+    "category": "B"
+  },
+  {
+    "symbol": "LLY",
+    "category": "D"
+  },
+  {
+    "symbol": "BRK.B",
+    "category": "A"
+  },
+  {
+    "symbol": "V",
+    "category": "A"
+  },
+  {
+    "symbol": "QCOM",
+    "category": "C"
+  },
+  {
+    "symbol": "UNH",
+    "category": ""
+  },
+  {
+    "symbol": "NOC",
+    "category": "E"
+  },
+  {
+    "symbol": "MS",
+    "category": "D"
+  },
+  {
+    "symbol": "IBM",
+    "category": "C"
+  },
+  {
+    "symbol": "CMCSA",
+    "category": "B"
+  },
+  {
+    "symbol": "T",
+    "category": "B"
+  },
+  {
+    "symbol": "KO",
+    "category": "B"
+  },
+  {
+    "symbol": "AAPL",
+    "category": "A"
+  },
+  {
+    "symbol": "AMZN",
+    "category": "A"
+  },
+  {
+    "symbol": "GS",
+    "category": "D"
+  },
+  {
+    "symbol": "CVX",
+    "category": "E"
+  },
+  {
+    "symbol": "ORCL",
+    "category": "C"
+  },
+  {
+    "symbol": "INTC",
+    "category": "C"
+  },
+  {
+    "symbol": "MSFT",
+    "category": "A"
+  }
+]
